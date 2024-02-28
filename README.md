@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KillerRex220
-- 👀 I’m interested in Python, C languages (idk a thing about it XD), and game development.
-- 🌱 I’m currently learning Python
+- 👀 I’m learning Python, interested in Java/JavaScript and C languages (idk a thing about it XD), and game development.
 - 💞️ I’m looking to collaborate on a game I am making
 - 📫 How to reach me worleyw33@gmail.com
 
